@@ -1,0 +1,51 @@
+.DD{
+    border-radius: 30px;
+}
+
+#box{
+
+    width: 100px;
+    height: 100px;
+}
+
+
+body{
+    background-color: turquoise;
+}
+
+
+.HELLO{
+    width: 400px;
+    border-radius: 200px;
+    float: left;
+    margin-right: 10px;
+}
+
+.BYE {
+    border-radius: 250px;
+    float: left;
+    margin-right: 10px;
+}
+
+.Name1 {
+    font-weight: bold;
+}
+
+.Name1 {
+    color: red;
+    font-style: normal;
+}
+
+text {
+    font-family:  Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.DYE{
+    border-radius: 200px;
+    float: left;
+    margin-right: 10px;
+}
+
+.KL {
+    border-radius: 100000px;
+}
